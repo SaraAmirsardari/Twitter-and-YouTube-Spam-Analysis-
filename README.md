@@ -1,0 +1,2 @@
+# Twitter-and-YouTube-Spam-Analysis-
+Apply the algorithms: Decision tree, Random Forest, SVM, KNN, Bagging, AdaBoost, Multilayer neuron networks, Naive Bayesian classification on the set of data, but with the 10 attributes selected only. Outcome: Compare the performance of these algorithms based on: The true positive rate (TP Rate) - of the spam class ii. The false positive rate (FP Rate) - of the spam class iii. F-measure of the spam class, and iv. The area under the ROC curve (AUC).
